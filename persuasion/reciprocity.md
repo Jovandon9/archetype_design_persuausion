@@ -49,6 +49,12 @@ After the download, the website could display:
 
 The website provides something useful first and then makes a request. This demonstrates reciprocity.
 
+## Visual Example
+
+![Reciprocity website example](images/reciprocity-example.png)
+
+*AI-generated website mockup showing reciprocity by offering a free SAT study checklist before asking visitors to schedule a consultation.*
+
 ## Ethical Use
 
 Reciprocity should not be used to make people feel guilty or pressured.
@@ -69,4 +75,4 @@ The goal should be to create a positive relationship with the user rather than f
 
 ## Navigation
 
-[← Back to Principles of Persuasion](README.md)
+[← Back to Principles of Persuasion](../Methods%20of%20Persuasion.md)
